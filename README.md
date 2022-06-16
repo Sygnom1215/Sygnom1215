@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+***나 자신의 나의 리더다***
 </br></br>
 <img src="https://img.shields.io/badge/Unity-222324?style=for-the-badge&logo=Unity&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&&logoColor=white">
