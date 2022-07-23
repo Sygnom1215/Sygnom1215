@@ -1,6 +1,4 @@
 
-***매일 매일 내가 나에게 동기를 부여한다. 나 자신이 나의 리더다.***</br>
-<br>*경청과 인정, 성장*</br>
 </br>
 <img src="https://img.shields.io/badge/Unity-222324?style=for-the-badge&logo=Unity&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=CSharp&logoColor=white">
