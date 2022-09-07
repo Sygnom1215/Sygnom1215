@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<<<<<<< HEAD
-<img src="https://img.shields.io/badge/Unity-5D5D5D?style=for-the-badge&logo=Unity&logoColor=white">
-<img src="https://img.shields.io/badge/C%23-93CC8D?style=for-the-badge&logo=CSharp&logoColor=white">
-<img src="https://img.shields.io/badge/C++-8EC7D0?style=for-the-badge&logo=c%2B%2B&&logoColor=white">
 
 =======
 ***나 자신의 나의 리더다***
