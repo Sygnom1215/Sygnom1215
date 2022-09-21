@@ -1,5 +1,5 @@
 ### Hi there 👋
-[Tistory블로그](https://thgudthgud.tistory.com/)
+### [Tistory 바로 가기](https://thgudthgud.tistory.com/)
 
 
 *** ***
