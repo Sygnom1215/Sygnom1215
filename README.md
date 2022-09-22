@@ -1,8 +1,5 @@
 ### Hi there 👋
-### [Tistory 바로 가기](https://thgudthgud.tistory.com/)
-
-
-*** ***
+***
 </br></br>
 <img src="https://img.shields.io/badge/Unity-222324?style=for-the-badge&logo=Unity&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&&logoColor=white">
